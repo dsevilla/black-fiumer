@@ -17,3 +17,7 @@ When the Notebook appears, you can execute all the cells using the >> button on 
 You'll notice two tests to see if you're a Black Fiumer, 2022, one using your DNI (without the letter), and other using your UM email account. To run either of the cells, just press Ctrl+Enter or Shift+Enter.
 
 ![Test!](img/test.png)
+
+Si eres un Black Fiumer puedes rellenar la encuesta de asistencia aquí:
+
+https://encuestas.um.es/encuestas/Mzc4Mjg.w
