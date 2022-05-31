@@ -18,6 +18,6 @@ You'll notice two tests to see if you're a Black Fiumer, 2022, one using your DN
 
 ![Test!](img/test.png)
 
-Si eres un Black Fiumer puedes rellenar la encuesta de asistencia aquí:
+If you're a Black Fiumer you can fill the survey to participate here:
 
 https://encuestas.um.es/encuestas/Mzc4Mjg.w
